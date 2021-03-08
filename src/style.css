@@ -1,0 +1,33 @@
+h1 {
+  font-family: "Hammersmith One", sans-serif;
+  color: #314e52;
+}
+h3 i {
+  color: #f2a154;
+}
+h2 {
+  font-family: "Hammersmith One", sans-serif;
+  color: #314e52;
+}
+h3 {
+  font-family: "Hammersmith One", sans-serif;
+  color: #314e52;
+}
+ul {
+  list-style: none;
+  font-family: "Barlow Condensed", sans-serif;
+  margin: 0 0 0 0;
+  color: #314e52;
+}
+.nextDays {
+  font-size: small;
+  margin: 0 0 0 0;
+  padding: 0 0 0 0;
+}
+.nextDays i {
+  color: #276678;
+}
+.form-Control {
+  display: block;
+  margin: 0 auto;
+}
